@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1694546561321" clover="3.2.0">
+  <project timestamp="1694546561321" name="All files">
+    <metrics statements="35" coveredstatements="6" conditionals="17" coveredconditionals="3" methods="9" coveredmethods="2" elements="61" coveredelements="11" complexity="0" loc="35" ncloc="35" packages="1" files="7" classes="7"/>
+    <file name="Bowerman.js" path="/Users/dmitryababkov/Desktop/Нетология/ajs-homeworks/ci-template/src/js/Bowerman.js">
+      <metrics statements="3" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="7" count="0" type="stmt"/>
+    </file>
+    <file name="Character.js" path="/Users/dmitryababkov/Desktop/Нетология/ajs-homeworks/ci-template/src/js/Character.js">
+      <metrics statements="17" coveredstatements="5" conditionals="11" coveredconditionals="2" methods="3" coveredmethods="1"/>
+      <line num="3" count="9" type="stmt"/>
+      <line num="4" count="9" type="stmt"/>
+      <line num="5" count="9" type="stmt"/>
+      <line num="7" count="9" type="cond" truecount="2" falsecount="3"/>
+      <line num="8" count="0" type="stmt"/>
+      <line num="10" count="9" type="stmt"/>
+      <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="14" count="0" type="stmt"/>
+      <line num="16" count="0" type="stmt"/>
+      <line num="21" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="22" count="0" type="stmt"/>
+      <line num="23" count="0" type="stmt"/>
+      <line num="24" count="0" type="stmt"/>
+      <line num="25" count="0" type="stmt"/>
+      <line num="27" count="0" type="stmt"/>
+      <line num="32" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="33" count="0" type="stmt"/>
+    </file>
+    <file name="Daemon.js" path="/Users/dmitryababkov/Desktop/Нетология/ajs-homeworks/ci-template/src/js/Daemon.js">
+      <metrics statements="3" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="7" count="0" type="stmt"/>
+    </file>
+    <file name="Magician.js" path="/Users/dmitryababkov/Desktop/Нетология/ajs-homeworks/ci-template/src/js/Magician.js">
+      <metrics statements="3" coveredstatements="1" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="6" count="4" type="stmt"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="8" count="0" type="stmt"/>
+    </file>
+    <file name="Swordsman.js" path="/Users/dmitryababkov/Desktop/Нетология/ajs-homeworks/ci-template/src/js/Swordsman.js">
+      <metrics statements="3" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="7" count="0" type="stmt"/>
+    </file>
+    <file name="Undead.js" path="/Users/dmitryababkov/Desktop/Нетология/ajs-homeworks/ci-template/src/js/Undead.js">
+      <metrics statements="3" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="7" count="0" type="stmt"/>
+    </file>
+    <file name="Zombie.js" path="/Users/dmitryababkov/Desktop/Нетология/ajs-homeworks/ci-template/src/js/Zombie.js">
+      <metrics statements="3" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="7" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>

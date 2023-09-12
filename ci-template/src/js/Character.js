@@ -7,13 +7,13 @@ export default class Character {
     if (name === 'string' && name.length >= 2 && name.length <= 10) {
       this.name = name;
     } else {
-      throw new Error('Некорректное имя');
+      throw new Error('Incorrected name');
     }
 
     if (type.includes(typePerson)) {
       this.type = type;
     } else {
-      throw new Error('Некорректный тип');
+      throw new Error('Incorrected type');
     }
   }
 
