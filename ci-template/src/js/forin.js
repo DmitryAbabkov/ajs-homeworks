@@ -1,13 +1,5 @@
 const obj = {name: 'мечник', health: 10, level: 2, attack: 80, defence: 40};
 
-// export function createObj(arr) {
-//   let objModify = {
-//     key: key,
-//     value: obj[key]
-//   };
-//   arr.push(objModify);
-// }
-
 export default function orderByProps(obj, data) {
   const arr = [];
   const arr2 = [];
