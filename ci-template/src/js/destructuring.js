@@ -20,13 +20,19 @@ const character = {
   ],
 };
 
-function destructoringObj(obj) {
+export default function destructoringObj(obj) {
   const arr = [];
   obj.special.forEach((item) => {
-    if (item.description === undefined) {
-      item.description = 'Описание недоступно';
+    const objM = {
+      id: item.id,
+      name: item.name,
+      icon: item.icon,
+      description: item.description,
+    };
+    if (objM.description === undefined) {
+      objM.description = 'Описание недоступно';
     }
-    arr.push(item);
+    arr.push(objM);
   });
 }
 

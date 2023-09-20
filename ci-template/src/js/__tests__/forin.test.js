@@ -1,6 +1,5 @@
 import orderByProps from '../forin';
 
-
 test('Проверка корректных параметров', () => {
   const obj = {
     name: 'Дима', health: 100, level: 100, attack: 100, defence: 40,
