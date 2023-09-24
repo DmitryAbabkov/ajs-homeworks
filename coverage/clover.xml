@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1695233883949" clover="3.2.0">
-  <project timestamp="1695233883950" name="All files">
-    <metrics statements="57" coveredstatements="28" conditionals="21" coveredconditionals="7" methods="14" coveredmethods="7" elements="92" coveredelements="42" complexity="0" loc="57" ncloc="57" packages="1" files="9" classes="9"/>
+<coverage generated="1695560252294" clover="3.2.0">
+  <project timestamp="1695560252294" name="All files">
+    <metrics statements="68" coveredstatements="39" conditionals="23" coveredconditionals="9" methods="17" coveredmethods="10" elements="108" coveredelements="58" complexity="0" loc="68" ncloc="68" packages="1" files="11" classes="11"/>
     <file name="Bowerman.js" path="/Users/dmitryababkov/Desktop/Нетология/ajs-homeworks/ci-template/src/js/Bowerman.js">
       <metrics statements="3" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
       <line num="5" count="0" type="stmt"/>
@@ -52,6 +52,13 @@
       <line num="6" count="0" type="stmt"/>
       <line num="7" count="0" type="stmt"/>
     </file>
+    <file name="UserName.js" path="/Users/dmitryababkov/Desktop/Нетология/ajs-homeworks/ci-template/src/js/UserName.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="3" count="4" type="stmt"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+    </file>
     <file name="Zombie.js" path="/Users/dmitryababkov/Desktop/Нетология/ajs-homeworks/ci-template/src/js/Zombie.js">
       <metrics statements="3" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
       <line num="5" count="0" type="stmt"/>
@@ -59,32 +66,42 @@
       <line num="7" count="0" type="stmt"/>
     </file>
     <file name="destructuring.js" path="/Users/dmitryababkov/Desktop/Нетология/ajs-homeworks/ci-template/src/js/destructuring.js">
-      <metrics statements="9" coveredstatements="9" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
       <line num="1" count="1" type="stmt"/>
-      <line num="24" count="1" type="stmt"/>
-      <line num="25" count="1" type="stmt"/>
+      <line num="24" count="2" type="stmt"/>
+      <line num="25" count="2" type="stmt"/>
       <line num="26" count="2" type="stmt"/>
       <line num="32" count="2" type="cond" truecount="2" falsecount="0"/>
       <line num="33" count="1" type="stmt"/>
       <line num="35" count="2" type="stmt"/>
-      <line num="37" count="1" type="stmt"/>
-      <line num="40" count="1" type="stmt"/>
+      <line num="39" count="1" type="stmt"/>
     </file>
     <file name="forin.js" path="/Users/dmitryababkov/Desktop/Нетология/ajs-homeworks/ci-template/src/js/forin.js">
       <metrics statements="13" coveredstatements="13" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
       <line num="1" count="1" type="stmt"/>
-      <line num="12" count="4" type="stmt"/>
+      <line num="4" count="4" type="stmt"/>
+      <line num="5" count="4" type="stmt"/>
+      <line num="7" count="15" type="stmt"/>
+      <line num="11" count="15" type="stmt"/>
       <line num="13" count="4" type="stmt"/>
-      <line num="15" count="15" type="stmt"/>
-      <line num="19" count="15" type="stmt"/>
+      <line num="14" count="15" type="cond" truecount="2" falsecount="0"/>
+      <line num="15" count="4" type="stmt"/>
+      <line num="17" count="11" type="stmt"/>
+      <line num="20" count="17" type="stmt"/>
       <line num="21" count="4" type="stmt"/>
-      <line num="22" count="15" type="cond" truecount="2" falsecount="0"/>
-      <line num="23" count="4" type="stmt"/>
-      <line num="25" count="11" type="stmt"/>
-      <line num="28" count="17" type="stmt"/>
-      <line num="29" count="4" type="stmt"/>
-      <line num="30" count="4" type="stmt"/>
-      <line num="32" count="1" type="stmt"/>
+      <line num="22" count="4" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+    </file>
+    <file name="phone.js" path="/Users/dmitryababkov/Desktop/Нетология/ajs-homeworks/ci-template/src/js/phone.js">
+      <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="2" count="4" type="stmt"/>
+      <line num="3" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="6" count="3" type="stmt"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
