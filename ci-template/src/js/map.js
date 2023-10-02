@@ -1,20 +1,18 @@
-/* eslint-disable */
-
 export default class ErrorRepository {
-    constructor() {
-        this.error = new Map();
-    }
+  constructor() {
+    this.error = new Map();
+  }
 
-    translate(code) {
-        if(this.error.has(code)) {
-            console.log(this.error.get(code));
-        } else {
-            return 'Unknown error';
-        }
+  translate(code) {
+    if (this.error.has(code)) {
+      return this.error.get(code);
     }
-    addError(key,value) {
-        this.error.set(key,value);
-    }
+    return 'Unknown error';
+  }
+
+  addError(key, value) {
+    this.error.set(key, value);
+  }
 }
 
 const testError = new ErrorRepository();
