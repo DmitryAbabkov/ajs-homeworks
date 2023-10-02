@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1695560252294" clover="3.2.0">
-  <project timestamp="1695560252294" name="All files">
-    <metrics statements="68" coveredstatements="39" conditionals="23" coveredconditionals="9" methods="17" coveredmethods="10" elements="108" coveredelements="58" complexity="0" loc="68" ncloc="68" packages="1" files="11" classes="11"/>
+<coverage generated="1696272939682" clover="3.2.0">
+  <project timestamp="1696272939682" name="All files">
+    <metrics statements="96" coveredstatements="67" conditionals="29" coveredconditionals="15" methods="27" coveredmethods="20" elements="152" coveredelements="102" complexity="0" loc="96" ncloc="96" packages="1" files="14" classes="14"/>
     <file name="Bowerman.js" path="/Users/dmitryababkov/Desktop/Нетология/ajs-homeworks/ci-template/src/js/Bowerman.js">
       <metrics statements="3" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
       <line num="5" count="0" type="stmt"/>
@@ -92,6 +92,33 @@
       <line num="22" count="4" type="stmt"/>
       <line num="24" count="1" type="stmt"/>
     </file>
+    <file name="map*.js" path="/Users/dmitryababkov/Desktop/Нетология/ajs-homeworks/ci-template/src/js/map*.js">
+      <metrics statements="13" coveredstatements="13" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="7" count="5" type="stmt"/>
+      <line num="11" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+      <line num="29" count="1" type="stmt"/>
+    </file>
+    <file name="map.js" path="/Users/dmitryababkov/Desktop/Нетология/ajs-homeworks/ci-template/src/js/map.js">
+      <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <line num="5" count="4" type="stmt"/>
+      <line num="9" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="12" count="2" type="stmt"/>
+      <line num="16" count="4" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+    </file>
     <file name="phone.js" path="/Users/dmitryababkov/Desktop/Нетология/ajs-homeworks/ci-template/src/js/phone.js">
       <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
       <line num="2" count="4" type="stmt"/>
@@ -102,6 +129,16 @@
       <line num="11" count="1" type="stmt"/>
       <line num="12" count="1" type="stmt"/>
       <line num="13" count="1" type="stmt"/>
+    </file>
+    <file name="set.js" path="/Users/dmitryababkov/Desktop/Нетология/ajs-homeworks/ci-template/src/js/set.js">
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+      <line num="5" count="4" type="stmt"/>
+      <line num="9" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="12" count="2" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="17" count="3" type="stmt"/>
+      <line num="22" count="2" type="stmt"/>
     </file>
   </project>
 </coverage>
