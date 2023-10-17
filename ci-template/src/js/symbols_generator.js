@@ -22,9 +22,9 @@ class Team {
   }
 
   * [Symbol.iterator]() {
-    while (this.currentIndex < this.arrTeams.length) {
-      yield this.arrTeams[this.currentIndex++];
-    }
+  for (let item of this.arrTeams) {
+    yield item;
+}
   }
 }
 
